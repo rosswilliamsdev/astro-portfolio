@@ -1,0 +1,32 @@
+[
+  {
+    "title": "✅ CheckIt",
+    "description": "A custom-built, responsive full-stack project and task manager designed to help users organize their work with nested checklists, priorities, and due dates. It also features user authorizion and authentication, and persistent data storage.",
+    "image": "/images/Landing_Page_Light.png",
+    "url": "https://www.checkitplanner.com/login",
+    "github": "https://github.com/rosswilliamsdev/CheckIt",
+    "tech": "React, Express, Node, PostgreSQL, JWT, Vercel, Render"
+  },
+  {
+    "title": "GuitarStrategies.com",
+    "description": "My personal marketing site where music students can learn about my teaching style, musical background, and easily reach out for lessons. It’s a full-stack, responsive site with a secure custom contact form to help me connect with new students.",
+    "image": "/images/Guitar-website.png",
+    "url": "https://guitarstrategies.com/",
+    "github": "https://github.com/rosswilliamsdev/Guitar_Strategies_Website",
+    "tech": "React, TypeScript, Node, Express, Render"
+  },
+  {
+    "title": "📑 NoteStack",
+    "description": "A full-stack productivity app that lets users create, edit, and organize notes with persistent data storage. Both manual and automated testing was implemented throughout development.",
+    "image": "/images/notestack3.png",
+    "github": "https://github.com/rosswilliamsdev/NoteStack",
+    "tech": "React, Express, MongoDB, Mongoose, Node, Playwright"
+  },
+  {
+    "title": "Course Compass",
+    "description": "A full-stack mobile app designed for college students who need to keep track of their academic progress. Students can add their terms and classes, receive push notifications for important dates, and generate a degree progress report",
+    "image": "/images/course-compass1.png",
+    "github": "https://github.com/rosswilliamsdev/CourseCompass1",
+    "tech": ".NET MAUI, XAML, xUnit, SQLite"
+  }
+]
