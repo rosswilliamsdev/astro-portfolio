@@ -182,7 +182,7 @@ a {
 
 .tech-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  grid-template-columns: repeat(5, 1fr);
   gap: 1rem;
   justify-items: center;
   align-items: center;
@@ -226,16 +226,19 @@ a {
   animation-timing-function: ease-in-out, linear;
 }
 
-.magic-line {
-}
-
 /* //////////////////////// */
 /* MEDIA QUERIES----------------------------------------------------------------- */
 /* //////////////////////// */
 
-@media only screen and (max-width: 700px) {
-  .modal-content {
-    width: 100%;
+@media (max-width: 768px) {
+  .tech-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .tech-grid {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
