@@ -1,17 +1,17 @@
 window.onload = function () {
   setTimeout(function () {
     document.querySelector(".excellence").style.display = "block";
-  }, 1000);
+  }, 800);
 
   setTimeout(function () {
     document.querySelector(".creativity").style.display = "block";
-  }, 2000);
+  }, 1600);
 
   setTimeout(function () {
     document.querySelector(".challenges").style.display = "block";
-  }, 3000);
+  }, 2400);
 
   setTimeout(function () {
     document.querySelector(".arrow").style.display = "block";
-  }, 4000);
+  }, 3000);
 };
