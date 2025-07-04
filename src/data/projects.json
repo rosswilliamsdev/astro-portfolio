@@ -1,7 +1,7 @@
 [
   {
     "title": "✅ CheckIt",
-    "description": "A custom-built, responsive full-stack project and task manager designed to help users organize their work with nested checklists, priorities, and due dates. It also features user authorizion and authentication, and persistent data storage.",
+    "description": "A custom-built, responsive full-stack project and task manager designed to help users organize their work with nested checklists, priorities, and due dates. It also features user authorization and authentication and persistent data storage.",
     "image": "images/Landing_Page_Light.png",
     "url": "https://www.checkitplanner.com/login",
     "github": "https://github.com/rosswilliamsdev/CheckIt",
